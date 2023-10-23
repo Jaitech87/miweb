@@ -1,2 +1,2 @@
 Segunda prueba con git
-Seguimos con la prueba
+Seguimos con la prueba de git
